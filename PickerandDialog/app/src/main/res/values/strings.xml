@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Picker and Dialog</string>
+    <string name="salvar">Salvar</string>
+    <string name="abrir_alert_dialog">Abrir alert dialog</string>
+    <string name="eu_sou_um_alert">Gracias</string>
+    <string name="conteudo_alert">Conteudo alert</string>
+    <string name="eu_sou_um_alert2">Eu sou um alert</string>
+    <string name="conteudo_do_alert">Arthur seu fodido</string>
+    <string name="ok">Ok</string>
+    <string name="cliquei">Cliquei no ok</string>
+    <string name="abrir_progressdialog">Abrir ProgressDialog</string>
+    <string name="progress">Eu sou um progressDialog</string>
+    <string name="aguarde">Aguarde saporra carrega</string>
+    <string name="abrir_datepicker_dialog">Abrir datePicker dialog</string>
+    <string name="abrir_dialog_personalizado">Abrir dialog personalizado</string>
+    <string name="alert">Eu sou um alert personalizado</string>
+    <string name="dialogPersonalizado">Eu sou um dialog personalizado</string>
+</resources>
